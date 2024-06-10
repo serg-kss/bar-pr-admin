@@ -1,0 +1,145 @@
+{
+    "form":{
+        "name": "name",
+        "email": "email"
+    },
+    "Home": {
+        "title": "About Us"
+    },
+    "Index": {
+        "title": "Hello world!"
+    },
+    "SignIn": {
+        "login title": "Sign in form",
+        "signup button": "First time here? Let's Sign up",
+        "forgot password button": "Forgot password?",
+        "login button": "Log in",
+        "email placeholder": "Email",
+        "password placeholder": "Password",
+        "input required": "Required",
+        "invalid email": "This does not look like email",
+        "password is short": "Password must contain at least 8 character(s)",
+        "password is long": "Password must contain at most 20 character(s)",
+        "signin error": "Looks like something went wrong",
+        "signin error (wrong email)": "User with this emaill doesn't exist",
+        "signin error (wrong password)": "Wrong password",
+        "or": "or"
+    },
+    "Register": {
+        "signup title": "Sign up",
+        "register button": "Register",
+        "first name placeholder": "First Name",
+        "second name placeholder": "Second Name",
+        "email placeholder": "Email",
+        "password placeholder": "Password",
+        "confirm password placeholder": "Confirm password",
+        "input required": "Required",
+        "passwords didn't match": "Passwords do not match",
+        "password recommendation": "Password Recommendations:\n - Your password should be at least 8 characters long.\n- Include a mix of uppercase and lowercase letters.\n- Add at least one numeric digit.\n- Add at least one special character.",
+        "registration status success": "You have successfully registered and will now be redirected to the 'Login' page.",
+        "registration error": "Something went wrond",
+        "registration error (user already exists)": "User with this email already exists"
+    },
+
+    "Successfull Registration": {
+        "sucreg title": "Congrats! You almost there",
+        "sucreg text": "Now use the link that we send you via email and finish registration"
+
+    },
+    "Resend Email": {
+        "resend email text": "Massage can get in 'Spam' folder, check it \n If you didn't get the message, you can try to resend it \n If you still not getting email, make sure that you used right email address",
+        "resend current email": "Your current email: ",
+        "resend email button": "Resend the message"
+    },
+
+    "Verify Email": {
+        "verify email success": "You can close this tab",
+        "verify email fail": "You opened this link too late, please Login again"
+    },
+
+    "Forgot Password": {
+        "forgot password title": "Forgot the password?",
+        "forgot password text": "Give us your email, so we could send you the link to change your password",
+        "email placeholder": "Email",
+        "forgot password button": "Get an email"
+    },
+
+    "Change Password": {
+        "change password title": "Change the password",
+        "change password button": "Set new Password",
+        "new password placeholder": "New Password",
+        "confirm password placeholder": "Confirm password",
+        "change password error": "Something went wrong",
+        "change password success": "Password changed suucessfully",
+        "input required": "Required",
+        "passwords didn't match": "Passwords do not match",
+        "password recommendation": "Password Recommendations:\n - Your password should be at least 8 characters long.\n- Include a mix of uppercase and lowercase letters.\n- Add at least one numeric digit.\n- Add at least one special character."
+    },
+
+    "Header": {
+        "home link": "Home",
+        "signIn link": "Sign in"
+    },
+
+    "User Error": {
+        "error title": "Looks like something went wrong",
+        "error text": "Please, try again or contact our support team to resolve this issue"
+    },
+
+    "Promotion Page Header": {
+        "prom header new": "New",
+        "prom header accepted": "Accepted",
+        "prom header finished": "Finished"
+    },
+     "SideNavBar": {
+        "Promotions": "Promotions",
+        "Orders": "Orders",
+        "Home": "Home",
+        "PaymentDetails": "Payment details",
+        "Products": "Products",
+        "FAQ": "FAQ",
+        "Settings": "Settings",
+        "Feedback": "Feedback"
+     },
+     "ProductsMenu": {
+        "No products in category": "No products in category",
+        "Confirm": "Confirm",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "Remove from category": "Remove from category",
+        "Apply Changes": "Apply changes",
+        "CategoriesDropdown": "Categories",
+        "Create Category": "Create Category",
+        "Create Product" :"Create Product",
+        "Confirm Delete Product": "Confirm Delete",
+        "Confirm Delete Сategory": "Confirm Delete category",
+        "Delete Category Warning": "Warning, if there are products that are only connected to this category, they will be deleted",
+        "Confirm Edit Product": "Save Changes",
+        "Cancel": "Cancel",
+        "Product Name": "Name",
+        "Product Description": "Description",
+        "Product Price": "Price",
+        "Product Photo": "Photo",
+        "Product In Stock": "In Stock",
+        "Product Visibility": "Visibilty"
+     },
+     "OrdersMenu": {
+        "New Orders": "New Orders",
+        "OrderStatusNew": "New",
+        "In Progress": "In Progress",
+        "Finished": "Finished",
+        "OrderStatusFinished": "Finished",
+        "Paid": "Paid",
+        "Unpaid": "Unpaid",
+        "paid": "paid",
+        "unpaid": "unpaid",
+        "Total": "Total",
+        "Q-ty": "Q-ty",
+        "Price": "Price",
+        "Product": "Product"
+     }
+
+
+
+
+}
